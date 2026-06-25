@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# OS Files
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
