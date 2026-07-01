@@ -1,6 +1,6 @@
 # Network Reconnaissance & Analysis Tools
 
-A collection of Python-based networking tools designed for educational purposes, network analysis, and cybersecurity learning.
+A collection of Python-based networking tools designed for educational purposes, network analysis, and cybersecurity lear
 
 This repository demonstrates practical implementations of network discovery, port scanning, wireless network analysis, and packet inspection techniques.
 
